@@ -3,7 +3,7 @@
 Requirements
 
 The original rocker box that comes with the telescope should be used as a platform for developing the drive system:
- - Minimal modification to the rocker box is allowed (screw fasteners, holes drilled, and/or adhesives).
+ - Minimal modification to the rocker box is allowed (screw fasteners, holes drilled, and/or adhesives should be used).
  - No manufacture new rocker box panels
 
 Supported tracking modes:

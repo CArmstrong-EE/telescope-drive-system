@@ -3,28 +3,26 @@
 ## 1. Project Overview
 
 **Project Name:**\
-`<Insert project name>`{=html}
+`AD10 Telescope Drive System`{=html}
 
 **Objective:**\
-`<One or two sentences describing what the system should accomplish>`{=html}
-
-**Motivation / Problem Statement:**\
-\<Describe the problem being solved, existing solutions, and the gap
-your project addresses\>
-
-------------------------------------------------------------------------
+`Design a telescope drive system for the Apertura AD10 dobsonian telescope that uses the original rocker box that ships with the telescope as the base platform. Design the system to require minimal modification to the rocker box and be completely detached from the same. The end product should be able to track stars, deep sky objects, and planetary bodies.`{=html}
 
 ## 2. System Description
 
 **High-Level Description:**\
-`<Describe the system and how it works at a conceptual level>`{=html}
+`The system will consist of a rocker box and telescope body that are driven by two motors. One for azimuth control and the other for altitude control. The necessary electronics will be housed in a single enclosure for easy mounting and unmounting from the telescope body. The electronics enclosure will include all the components necessary to control, power, and interface with the telescope except or the battery which will be housed external due to its large size`{=html}
 
 **System Components:**
 
--   Component 1:
--   Component 2:
--   Component 3:
--   Component 4:
+-   Component 1: Rocker box
+-   Component 2: Telescope tube
+-   Component 3: Microcontroller with custom firmware
+-   Component 4: Custom stepper motor driver
+-   Component 5: Custom Power distribution board
+-   Component 6: Azimuth drivetrain
+-   Component 7: Altitude drive train
+-   Component 8: Remote control
 
 **System Block Diagram (optional):**
 
